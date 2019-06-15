@@ -2,6 +2,7 @@
 build
 node_modules
 coverage
+ormconfig.json
 
 # Cruft
 .DS_Store
